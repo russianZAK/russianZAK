@@ -1,5 +1,5 @@
 # <div align="center">I'm Nikita🖐️, a passionate third-year student at ITMO University.</div>  
-<div align="center">Exploring the fascinating world of technology and aesthetics. I find immense joy in embracing the timeless elegance of old money style.👩‍💻</div>  
+<div align="center">Exploring the fascinating world of technology and aesthetics. I find immense joy in embracing the timeless elegance of old money style.💻</div>  
  
 <div align="center">
 <img src="https://media.giphy.com/media/R8dDMt8IgVvhK/giphy.gif" align="center" style="width: 100%" />
