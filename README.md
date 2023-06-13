@@ -2,7 +2,7 @@
 <div align="center">Exploring the fascinating world of technology and aesthetics. I find immense joy in embracing the timeless elegance of old money style.👩‍💻</div>  
  
 <div align="center">
-<img src="https://media.giphy.com/media/R8dDMt8IgVvhK/giphy.gif" align="center" style="width: 17%" />
+<img src="https://media.giphy.com/media/R8dDMt8IgVvhK/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 <div align="center">- 🔭  I’m currently working on something cool 😉</div>  
