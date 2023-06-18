@@ -68,8 +68,10 @@
 <br/>  
 
 # <div align="center">🚀Github Stats </div> 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=russianZAK&theme=swift)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=russianZAK&theme=swift)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=russianZAK&theme=swift)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=russianZAK&theme=swift&utcOffset=8)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=russianZAK&theme=swift)
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=russianZAK&theme=swift" />  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=russianZAK&theme=swift" />  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=russianZAK&theme=swift" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=russianZAK&theme=swift&utcOffset=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=russianZAK&theme=swift" />
+</div>
