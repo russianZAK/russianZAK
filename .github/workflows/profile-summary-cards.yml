@@ -16,7 +16,6 @@ jobs:
       
     steps:
       - uses: actions/checkout@v2
-      - uses: russianZAK/russianZAK@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
