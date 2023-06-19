@@ -69,9 +69,9 @@
 
 # <div align="center">🚀Github Stats </div> 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=russianZAK&theme=swift" />  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=russianZAK&theme=swift" />  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=russianZAK&theme=swift" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=russianZAK&theme=swift&utcOffset=8" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=russianZAK&theme=swift" />
+<img src="https://raw.githubusercontent.com/russianZAK/russianZAK/main/profile-summary-card-output/swift/1-repos-per-language.svg" />  
+<img src="https://raw.githubusercontent.com/russianZAK/russianZAK/main/profile-summary-card-output/swift/2-most-commit-language.svg" />  
+<img src="https://raw.githubusercontent.com/russianZAK/russianZAK/main/profile-summary-card-output/swift/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/russianZAK/russianZAK/main/profile-summary-card-output/swift/4-productive-time.svg" />
+<img src="https://raw.githubusercontent.com/russianZAK/russianZAK/main/profile-summary-card-output/swift/0-profile-details.svg" />
 </div>
