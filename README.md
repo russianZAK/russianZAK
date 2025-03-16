@@ -1,4 +1,4 @@
-# <div align="center">I'm Nikita🖐️, a passionate third-year student of ITMO University.</div>  
+# <div align="center">I'm Nikita🖐️, a passionate student of ITMO University.</div>  
 <div align="center">Exploring the fascinating world of technology and aesthetics. I find immense joy in embracing the timeless elegance of old money style.💻</div>  
  
 <div align="center">
@@ -7,7 +7,7 @@
 
 <div align="center">- 🔭  I’m currently working on something cool 😉</div>  
 <div align="center">- ⚡  Fun fact: I ❤️ Range Rover and Mercedes CLS</div>  
-<div align="center">- 🌱 I’m currently learning Java and JavaScript 👩‍💻</div>  
+<div align="center">- 🌱 I’m currently learning Java and Kotlin 👩‍💻</div>  
 
 <br/>  
 <br>
